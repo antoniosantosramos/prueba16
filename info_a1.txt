@@ -1,5 +1,6 @@
 soy info_a1
 
 modifico desde master
+vuelvo a modificar  para master
+modificando desde tarea_c
 
-vuelvo a modificar  desde master
