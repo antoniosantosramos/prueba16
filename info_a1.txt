@@ -3,6 +3,8 @@ soy info_a1
 modifico desde master
 vuelvo a modificar  para master
 modificando desde tarea_c
-
 modificando desde GitHub
+modifico desde master
+Y he sobrevivido a la clase de GIT
+
 
